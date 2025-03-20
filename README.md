@@ -5,4 +5,4 @@ La base de datos fue obtenida de la página oficial del INEGI, y se llama Encues
 
 - [HTML](./A2.2_588359.html)
 - [Jupyter Notebook](./A2.2_588359.ipynb)
-- [Base de Datos](./tr_eaec_nac_ent_absoluto_2018_2023.csv)
+- [Base de Datos](./bitacora_de_cambios_tr_indice_cla_mensual_nac_2007_2023.csv)
